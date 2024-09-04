@@ -4,7 +4,7 @@
 - 💼 I’ve completed internships in Frontend Development with CodSoft where I worked on responsive web designs and interactive UIs.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I dedicate 7 hours daily to learning and enjoy building projects that solve real-world problems.
-- 🌟 Key Skills: HTML5, CSS, TypeScript, React.js, Next.js, Tailwind CSS, Cloud Computing, and Generative AI.
+- 🌟 Key Skills: HTML5, CSS3, TypeScript, React.js, Next.js, Tailwind CSS, Cloud Computing, and Generative AI.
 - 🎯 Goal: To become an expert in Generative AI and Cloud Computing, and to contribute to projects that make a difference in the tech world.
 
 <!---
